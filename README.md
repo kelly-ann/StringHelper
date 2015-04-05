@@ -1,2 +1,2 @@
 # StringHelper
-StringHelper project to explore JUnit and TDD.
+StringHelper project to explore JUnit and TDD.  Eclipse IDE project.
